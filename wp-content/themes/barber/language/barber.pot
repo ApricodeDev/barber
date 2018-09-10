@@ -1,0 +1,402 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Base\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-06 14:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:19
+msgid "(Edit)"
+msgstr ""
+
+#: comments.php:20
+msgid "at"
+msgstr ""
+
+#: comments.php:20
+msgid "said:"
+msgstr ""
+
+#: comments.php:22
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:29
+msgid "Reply"
+msgstr ""
+
+#: comments.php:46
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:46
+msgid "One Response"
+msgstr ""
+
+#: comments.php:46
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:46
+msgid "to"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: single-netshop.php:23 single-netshop.php:60
+msgid "Sale "
+msgstr ""
+
+#: single-netshop.php:64
+msgid "Add to order"
+msgstr ""
+
+#: single-netshop.php:102 template_part/list_item_reccommends.php:9
+#: template_part/list_item_reccommends.php:13 template_page/about.php:48
+#: template_page/about.php:109
+msgid "Read more"
+msgstr ""
+
+#: single-netshop.php:157
+msgid "You Comment Added!"
+msgstr ""
+
+#: single-netshop.php:159
+msgid "You Order number is invalid!"
+msgstr ""
+
+#: single-netshop.php:182
+msgid "Show more"
+msgstr ""
+
+#: single-netshop.php:187
+msgid "Leave a comment"
+msgstr ""
+
+#: single-netshop.php:190
+msgid "You name*"
+msgstr ""
+
+#: single-netshop.php:191
+msgid "You order number*"
+msgstr ""
+
+#: single-netshop.php:193
+msgid "You comment*"
+msgstr ""
+
+#: single-netshop.php:194
+msgid "Send"
+msgstr ""
+
+#: single-netshop.php:222
+msgid "Go to dite"
+msgstr ""
+
+#: single-netshop.php:234
+msgid "Review"
+msgstr ""
+
+#: single-netshop.php:254
+msgid "Our contacts"
+msgstr ""
+
+#: single-netshop.php:258
+msgid "Work time"
+msgstr ""
+
+#: header.php:90
+msgid "to curtail"
+msgstr ""
+
+#: header.php:96
+msgid "Get order number"
+msgstr ""
+
+#: single-city.php:55
+msgid "go to the site"
+msgstr ""
+
+#: single-city.php:78 template_part/list_item.php:8
+#: template_part/list_item.php:12 template_part/posts_squere.php:14
+#: template_part/posts_squere.php:18 template_part/posts_squere.php:35
+#: template_part/posts_squere.php:39 template_page/partners.php:47
+msgid "Reas more"
+msgstr ""
+
+#: index.php:37 template_part/recommended_posts.php:27
+#: template_page/home.php:188
+msgid "More articles"
+msgstr ""
+
+#: single.php:22
+msgid "By"
+msgstr ""
+
+#: search.php:4
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:1
+msgid "Enter search terms&hellip;"
+msgstr ""
+
+#: searchform.php:5 inc/default.php:108
+msgid "Search"
+msgstr ""
+
+#: inc/theme_functions.php:47
+msgid "Shop City Location"
+msgstr ""
+
+#: inc/theme_functions.php:53
+msgid "Select City location"
+msgstr ""
+
+#: inc/sidebars.php:7
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/default.php:13
+#, php-format
+msgid ""
+"You are blocking access to robots. You must go to your <a href=\"%s\">"
+"Reading</a> settings and uncheck the box for Search Engine Visibility."
+msgstr ""
+
+#: inc/default.php:160
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: inc/default.php:161
+msgid "Password:"
+msgstr ""
+
+#: inc/default.php:161
+msgid "Submit"
+msgstr ""
+
+#: inc/default.php:215
+msgid "Date archive link"
+msgstr ""
+
+#: inc/default.php:222
+msgid "Type"
+msgstr ""
+
+#: inc/default.php:237
+msgid "Day"
+msgstr ""
+
+#: inc/default.php:238
+msgid "Month"
+msgstr ""
+
+#: inc/default.php:239
+msgid "Year"
+msgstr ""
+
+#: inc/cpt.php:6 inc/cpt.php:7 inc/cpt.php:9
+msgid "City"
+msgstr ""
+
+#: inc/cpt.php:8
+msgid "City List"
+msgstr ""
+
+#: inc/cpt.php:10 inc/cpt.php:48
+msgid "Add New"
+msgstr ""
+
+#: inc/cpt.php:11
+msgid "Add New City"
+msgstr ""
+
+#: inc/cpt.php:12
+msgid "New City"
+msgstr ""
+
+#: inc/cpt.php:13
+msgid "Edit City"
+msgstr ""
+
+#: inc/cpt.php:14
+msgid "View City"
+msgstr ""
+
+#: inc/cpt.php:15
+msgid "All City"
+msgstr ""
+
+#: inc/cpt.php:16
+msgid "Search City"
+msgstr ""
+
+#: inc/cpt.php:17
+msgid "Parent City:"
+msgstr ""
+
+#: inc/cpt.php:18 inc/cpt.php:56
+msgid "No found."
+msgstr ""
+
+#: inc/cpt.php:19 inc/cpt.php:57
+msgid "No found in Trash."
+msgstr ""
+
+#: inc/cpt.php:44 inc/cpt.php:45 inc/cpt.php:47
+msgid "Shop"
+msgstr ""
+
+#: inc/cpt.php:46
+msgid "Shop List"
+msgstr ""
+
+#: inc/cpt.php:49
+msgid "Add New Shop"
+msgstr ""
+
+#: inc/cpt.php:50
+msgid "New Shop"
+msgstr ""
+
+#: inc/cpt.php:51
+msgid "Edit Shop"
+msgstr ""
+
+#: inc/cpt.php:52
+msgid "View Shop"
+msgstr ""
+
+#: inc/cpt.php:53
+msgid "All Shop"
+msgstr ""
+
+#: inc/cpt.php:54
+msgid "Search Shop"
+msgstr ""
+
+#: inc/cpt.php:55
+msgid "Parent Shop:"
+msgstr ""
+
+#: inc/widgets.php:9
+msgid "The most recent posts from specific category on your site"
+msgstr ""
+
+#: inc/widgets.php:11
+msgid "Recent Posts From Specific Category"
+msgstr ""
+
+#: inc/widgets.php:33
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:83
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:88
+msgid "Category"
+msgstr ""
+
+#: inc/widgets.php:93
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/menus.php:5
+msgid "Header menu"
+msgstr ""
+
+#: inc/menus.php:6
+msgid "Header socialmenu"
+msgstr ""
+
+#: inc/menus.php:7
+msgid "Footer menu"
+msgstr ""
+
+#: inc/ajax.php:9
+msgid "You service changed!"
+msgstr ""
+
+#: inc/ajax.php:12
+msgid "You service added!"
+msgstr ""
+
+#: inc/woo_functions.php:12
+msgid "uah"
+msgstr ""
+
+#: inc/woo_functions.php:68
+msgid "products"
+msgstr ""
+
+#: inc/woo_functions.php:92
+msgid "услуга"
+msgstr ""
+
+#: template_part/pager.php:5
+msgid "Previous page"
+msgstr ""
+
+#: template_part/pager.php:6
+msgid "Next page"
+msgstr ""
+
+#: template_part/not_found.php:3
+msgid "Not Found"
+msgstr ""
+
+#: template_part/not_found.php:6
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#. Name of the template
+msgid "Home"
+msgstr ""
+
+#. Name of the template
+msgid "Contact"
+msgstr ""
+
+#. Name of the template
+msgid "Partners"
+msgstr ""
+
+#. Name of the template
+msgid "About"
+msgstr ""
+
+#. Name of the theme
+msgid "Barber"
+msgstr ""
+
+#. Description of the theme
+msgid "Barber theme for Wordpress"
+msgstr ""
+
+#. Author of the theme
+msgid "https://apri-code.com"
+msgstr ""
